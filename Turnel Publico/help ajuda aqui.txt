@@ -1,0 +1,6 @@
+1:Primeiro ANtes de Usar um Turnel Sim, Registra Nó pagekit.net
+2:Eles Vão envia por email seu usuario e  a senha e vc receber o token pega e colocar lar
+3:usar comado assim turnel_canal_lima.py --token=Aqui seu token 80 seusite.pagekite.me
+
+Uma dicar sim, Tá tendo erro consulta echat gpt Valeu fui.....
+  
